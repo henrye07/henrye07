@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">🌍  I'm from Colombia <br>✉️  You can contact me at henryeraso.dev@gmail.com<br>.<br></p>
+<p align="left">🌍  I'm from Colombia <br>✉️  You can contact me at henryeraso.dev@gmail.com.<br></p>
 
 
 <br clear="both">
